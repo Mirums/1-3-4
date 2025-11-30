@@ -1,5 +1,3 @@
-//Копировал из notion поэтому есть разметка
-Вот ссылка на notion для удобства: https://www.notion.so/2ba476ee24a780cca85bd9cdcf86c87e?source=copy_link
 ## **Номер 1**
 
 **Название:** «Ввод валидного email-адреса»
